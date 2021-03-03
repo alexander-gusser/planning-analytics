@@ -26,6 +26,7 @@
 
 - [About the Project](#about-the-project)
   - [Built With](#built-with)
+- [Usage](#usage)
 
 <!-- ABOUT THE PROJECT -->
 
@@ -42,3 +43,11 @@ Major frameworks
 - [Python](https://www.python.org/)
 - [Jupyter Notebooks](https://jupyter.org/)
 - [H20 AutoML](https://docs.h2o.ai/h2o/latest-stable/h2o-docs/automl.html)
+
+<!-- USAGE EXAMPLES -->
+
+## Usage
+
+Step by step guide for our prediction
+
+_h2oprediction [ipynb](h2o_prediction.ipynb)_
