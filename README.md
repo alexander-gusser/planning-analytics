@@ -11,11 +11,11 @@
     with Python, Jupyter Notebooks & H2O.ai
     <br />
     <br />
-    <a href="https://gmc2.de/business-intelligence/live-hackathon-auf-der-tdwi/">`BLOG` | <strong>Self-made Big Data Analytics</strong></a>
+    <a href="https://gmc2.de/business-intelligence/live-hackathon-auf-der-tdwi/"><strong>BLOG</strong> | Hackathon at the TDWI</a>
     <br />
-    <a href="SelfMade_BigData_Analytics_Draft.pdf">`WHITEPAPER` | <strong>Self-made Big Data Analytics</strong></a>
+    <a href="SelfMade_BigData_Analytics_Draft.pdf"><strong>WHITEPAPER</strong> | Self-made Big Data Analytics</a>
     <br />
-    <a href="https://www.tdwi.eu/fileadmin/tdwi/4.0_Verein/Young_Guns/BIS_01_17_Datenbasierte_Entscheidungshilfe_im_Bereich_Social_Media.pdf">`PUBLICATION` | </span><strong>Transparente Analyse geschäftsrelevanter Daten</strong></a>
+    <a href="https://www.tdwi.eu/fileadmin/tdwi/4.0_Verein/Young_Guns/BIS_01_17_Datenbasierte_Entscheidungshilfe_im_Bereich_Social_Media.pdf"><strong>PUBLICATION</strong> | Transparent analysis of business-relevant data</a>
     <br />
   </p>
 </p>
